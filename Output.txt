@@ -1,0 +1,82 @@
+Task 1:
+Enter a number: 
+9
+Factorial of 9 is 362880
+
+
+Task 2:
+Person Object with name Vaibhav Gupta created
+Person Object with name Sakshi created
+Hello, my name is Vaibhav Gupta and I'm 20 years old. I'm a Software Engineer
+Hello, my name is Sakshi and I'm 20 years old. I'm a Software Dev Engineer
+
+
+-----------Task 3 is running--------------
+
+1.Add Name
+2.Remove Name
+3.Display List
+4.Exit 
+Enter your choice: 
+1
+Enter name to add: 
+Vaibhav Gupta
+ vaibhavgupta added successfully
+
+--------------------Enter your choice: 
+2
+Enter name to remove: 
+Ram Kumar
+ramkumar not present in the list
+
+--------------------Enter your choice: 
+1
+Enter name to add: 
+Sakshi Katiyar
+ sakshikatiyar added successfully
+
+--------------------Enter your choice: 
+2
+Enter name to remove: 
+Ram kumar
+ramkumar not present in the list
+
+--------------------Enter your choice: 
+1
+Enter name to add: 
+Ram Kumar
+ ramkumar added successfully
+
+--------------------Enter your choice: 
+2
+Enter name to remove: 
+ram Kumar
+ramkumar removed successfully
+
+--------------------Enter your choice: 
+3
+List of names: 
+vaibhavgupta
+sakshikatiyar
+
+--------------------Enter your choice: 
+4
+
+
+
+
+-----------Task 4 is running--------------
+List of students with marks greater than 60: 
+Name: Vaibhav Mittal, Marks: 98, Age: 20
+Name: Sakshi Gupta, Marks: 96, Age: 23
+Name: Ram Mittal, Marks: 92, Age: 23
+Name: Vaibhav Gupta, Marks: 90, Age: 23
+Name: Sahil Katiyar, Marks: 84, Age: 23
+Name: Sahil Katiyar, Marks: 74, Age: 21
+Name: Sahil Mittal, Marks: 72, Age: 23
+Name: Ram Arora, Marks: 68, Age: 23
+Name: Sakshi Katiyar, Marks: 67, Age: 25
+Name: Vaibhav Mittal, Marks: 66, Age: 25
+Name: Vaibhav Mittal, Marks: 65, Age: 23
+Name: Vaibhav Gupta, Marks: 61, Age: 22
+Name: Sakshi Arora, Marks: 61, Age: 27

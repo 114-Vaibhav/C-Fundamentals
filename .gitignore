@@ -1,0 +1,38 @@
+# Ignore build output folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings folder
+.vscode/
+
+# Auto-generated files
+*.generated.cs
+
+# Rider IDE files (if ever used)
+.idea/
+
+# Logs and database files
+*.log
+*.sqlite
+*.db
+
+# NuGet package folders
+packages/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.temp
+
+# Publish output folder (if used)
+publish/
