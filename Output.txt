@@ -80,3 +80,33 @@ Name: Vaibhav Mittal, Marks: 66, Age: 25
 Name: Vaibhav Mittal, Marks: 65, Age: 23
 Name: Vaibhav Gupta, Marks: 61, Age: 22
 Name: Sakshi Arora, Marks: 61, Age: 27
+
+
+-----------Task 5 is running--------------
+File Created and written successfully.
+Here is the content of the file: 
+Vaibhav Gupta wrote this file.
+
+Number of words in the file: 5
+
+Here is the content of the file after appending: 
+Vaibhav Gupta wrote this file.Number of words in the file: 5
+File deleted successfully.
+Execution completed.
+
+
+-----------Task 6 is running--------------
+Count is between 10 and 15
+Count is between 10 and 15
+Count is between 10 and 15
+Count is between 10 and 15
+Count is between 15 and 20
+Count is between 15 and 20
+Count is between 15 and 20
+Count is between 15 and 20
+
+
+-----------Task 7 is running--------------
+Collecting data from function1
+Collecting data from function2
+Hello from function1 Hello from function2
