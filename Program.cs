@@ -20,8 +20,14 @@
         // Console.WriteLine("-----------Task 6 is running--------------");
         // EventHandling_Task_6.Run();
 
-        Console.WriteLine("-----------Task 7 is running--------------");
-        AsynchronassProgrammingAndMultiThreading_Task_7.Run().Wait();
+        // Console.WriteLine("-----------Task 7 is running--------------");
+        // AsynchronassProgrammingAndMultiThreading_Task_7.Run().Wait();
+
+        // Console.WriteLine("-----------Task 8 is running--------------");
+        // Generics_and_Interfaces_Task_8.Run();
+
+        Console.WriteLine("-----------Task 9 is running--------------");
+        Reflection_and_Custom_Attributes.Run();
 
     }
 }

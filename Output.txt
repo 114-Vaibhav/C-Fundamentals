@@ -110,3 +110,62 @@ Count is between 15 and 20
 Collecting data from function1
 Collecting data from function2
 Hello from function1 Hello from function2
+
+
+-----------Task 8 is running--------------
+1 Vaibhav
+2 Sakshi
+3 Ram
+4 Astik
+5 Sahil
+1 Laptop
+2 Mobile
+3 Tablet
+4 Camera
+5 Watch
+Id removed successfully
+Id removed successfully
+2 Sakshi
+3 Ram
+4 Astik
+5 Sahil
+2 Mobile
+3 Tablet
+4 Camera
+5 Watch
+Id not found
+Id not found
+After updating
+2 Sakshi
+3 Ram
+4 Astik
+5 Sahil
+2 Mobile
+3 Tablet
+4 Camera
+5 Watch
+
+
+
+-----------Task 9 is running--------------
+---- Executing Runnable Methods ----
+
+Executing Method: setDetails
+setDetails executed
+Type: Modifier
+Description: Assigns the Student Details
+
+Executing Method: getRollNo
+Roll Number: 1
+Type: Accessor
+Description: Returns Value of rollNo
+
+Executing Method: getStuName
+Name: Vaibhav
+Type: Accessor
+Description: Returns Value of stuName
+
+Executing Method: getMarks
+Marks: 92.5
+Type: Accessor
+Description: Returns Value of marks
